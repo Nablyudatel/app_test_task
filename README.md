@@ -20,5 +20,5 @@
 * Выполнить команду: `pip install -r requirements.txt`
 
 
-http://127.0.0.1:8000/api/v1/apps/  - это список объектов
-http://127.0.0.1:8000/api/v1/apps/test/api_key_7Kb5ncQcH4tmPjK7y0BXlJf2PqZMcx3s4OqrFad38pQ/ - Просмотр объекта по полю api_key
+* http://127.0.0.1:8000/api/v1/apps/  - это список объектов
+* http://127.0.0.1:8000/api/v1/apps/test/api_key_7Kb5ncQcH4tmPjK7y0BXlJf2PqZMcx3s4OqrFad38pQ/ - Просмотр объекта по полю api_key
